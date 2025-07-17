@@ -1,6 +1,5 @@
 ### Python Hackerrank Challenges
 
-A step by step guide to Python, a language that is easy to pick up yet one of the most powerful.
 
 | Name                                                                                                    | Description                                                         | Code                                                         |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
